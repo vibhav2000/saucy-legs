@@ -1,0 +1,6 @@
+this is the secong line on new file log.txt
+it has been a wonderful journey so far as now
+I've learnt the use of git and github, if there's any difference.
+please view my repo on git
+github.com/vibhav2000/saucy-legs
+
